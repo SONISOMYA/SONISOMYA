@@ -31,7 +31,7 @@
 
 <h3> Languages and Tools</h3>
 <p>
-  <!-- iOS & Swift -->
+  
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="40" height="40"/>
   <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="iOS" width="40" height="40"/>

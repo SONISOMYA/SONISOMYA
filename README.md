@@ -1,5 +1,5 @@
 <h1 align="center">Hello Ji ! Kese Ho?  I'm Somya Soni 👋</h1>
-<h3 align="center">A passionate iOS & Flutter developer from India </h3>
+<h3 align="center">A passionate Software developer from India </h3>
 
 <br>
 <p align="center">
@@ -7,9 +7,7 @@
 </p>
 <br>
 
--  I’m currently learning **iOS Development, Flutter & Data Structures**
--  I’m looking to collaborate on **iOS App Projects**
--  Ask me about **App Development**
+-  I’m currently learning **java and  Data Structures and algorithms**
 -  Reach me at **nobitanobi0411@gmail.com**
 
 ---

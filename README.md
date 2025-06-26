@@ -20,9 +20,6 @@
   <a href="https://instagram.com/somyasoni0411" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>
-  <a href="https://www.leetcode.com/somyasoni0411" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
-  </a>
 </p>
 
 ---
@@ -59,3 +56,15 @@
 
   
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SONISOMYA&show_icons=true&theme=default" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONISOMYA&layout=compact&theme=default" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SONISOMYA/count.svg" />
+</p>
+
+
+

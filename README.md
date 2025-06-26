@@ -1,7 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&pause=20000&color=fffff&center=true&vCenter=true&multiline=true&repeat=false&width=1000&lines=Hello+ji!!+I'm+Somya+Soni;" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&pause=20000&color=fffff&center=true&vCenter=true&multiline=true&repeat=false&width=1000&lines=Software+Developer+from+India;" alt="Typing SVG" />
-
-
+<h1 align="center">Hello Ji !! I'm Somya Soni </h1>
+<h2 align="center">Software Developer from India 🇮🇳</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </p>

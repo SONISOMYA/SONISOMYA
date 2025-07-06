@@ -10,7 +10,7 @@
 
 ---
 
-<h3>🌐 Connect with me</h3>
+<h3>Connect with me</h3>
 <p>
   <a href="https://www.linkedin.com/in/somya-soni-29100411e" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
@@ -22,7 +22,7 @@
 
 ---
 
-<h3>🛠️ Languages and Tools</h3>
+<h3> Languages and Tools</h3>
 <p>
   <!-- Mobile Dev -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>

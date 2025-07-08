@@ -60,9 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONISOMYA&layout=compact&theme=default" height="170px"/>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SONISOMYA/count.svg" />
-</p>
 
 
 

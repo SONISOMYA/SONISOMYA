@@ -6,7 +6,7 @@
 <br>
 
 -  I’m currently learning **Java, Spring Boot, and Data Structures and Algorithms**
--  Reach me at **nobitanobi0411@gmail.com**
+-  Reach me at **somyasoni0411@gmail.com**
 
 ---
 
